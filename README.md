@@ -11,7 +11,7 @@ The bot is user-friendly, fast, and reliable.
 
 3. Link na demo
 
-4.
+4. <p><strong>Structure</strong></p>
 CantorsBI/<br>
 &emsp;&emsp;|                          
 &emsp;&emsp;|---vent/<br>
@@ -23,3 +23,11 @@ CantorsBI/<br>
 &emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|---site-packages/    
 &emsp;&emsp;|<br>
 &emsp;&emsp;|---main.py
+
+5. <p><strong>Technology</strong></p>
+IDE: PyCharm<br>
+Python library:
+  <li>Pandas</li>
+  <li>Requests</li>
+  <li>BeautifulSoup4</li>
+  <li>Python-Teleram-Bot
