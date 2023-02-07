@@ -12,9 +12,14 @@ The bot is user-friendly, fast, and reliable.
 3. Link na demo
 
 4.
-CantorsBI
-|
-|--bin\
-|   |
-|    
-|
+CantorsBI/<br>
+&emsp;&emsp;|                          
+&emsp;&emsp;|---vent/<br>
+&emsp;&emsp;|&emsp;&emsp;|<br>
+&emsp;&emsp;|&emsp;&emsp;|---lib/<br>
+&emsp;&emsp;|&emsp;&emsp;|<br>
+&emsp;&emsp;|&emsp;&emsp;|---scripts/  
+&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|<br>
+&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|---site-packages/    
+&emsp;&emsp;|<br>
+&emsp;&emsp;|---main.py
