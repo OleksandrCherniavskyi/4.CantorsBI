@@ -10,7 +10,7 @@ The user can input their desired currency, amount and the bot will return the be
 The bot is user-friendly, fast, and reliable.
 ![Record_2023_02_07_19_31_14_238](https://user-images.githubusercontent.com/105165580/217334415-479e90a6-df69-4a53-add1-dc9225aa5169.gif)
 
-3. [main.py]([https://github.com/OleksandrCherniavskyi/4.CantorsBI/blob/main/main.py])
+3. [main.py](https://github.com/OleksandrCherniavskyi/4.CantorsBI/blob/main/main.py)
 
 4. <p><strong>Structure</strong></p>
 CantorsBI/<br>
