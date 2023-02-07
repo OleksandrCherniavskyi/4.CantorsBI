@@ -19,8 +19,8 @@ CantorsBI/<br>
 &emsp;&emsp;|&emsp;&emsp;|---lib/<br>
 &emsp;&emsp;|&emsp;&emsp;|<br>
 &emsp;&emsp;|&emsp;&emsp;|---scripts/  
-&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|<br>
-&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|---site-packages/    
+&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
+&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;|---site-packages/    
 &emsp;&emsp;|<br>
 &emsp;&emsp;|---main.py
 
