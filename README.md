@@ -12,12 +12,20 @@ The bot is user-friendly, fast, and reliable.
  [main.py](https://github.com/OleksandrCherniavskyi/4.CantorsBI/blob/main/main.py)
 
 
- <p><strong>Technology</strong></p>
+## Technology
 IDE: PyCharm<br>
 Python library:
-  <li>Pandas</li>
-  <li>Requests</li>
-  <li>BeautifulSoup4</li>
-  <li>Python-Teleram-Bot
+- Pandas
+- Requests
+- BeautifulSoup4
+- Python-Teleram-Bot
   
   
+## Installation 
+- mkdir /workspace
+- copy main.py in /worspace
+- copy requirements.txt in /worspace
+- python -m venv /workspace/venv
+- . venv/bin/actiavate
+- -m pip install -r requirements.txt
+- python main.py
