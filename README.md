@@ -27,5 +27,5 @@ Python library:
 - copy requirements.txt in /worspace
 - python -m venv /workspace/venv
 - . venv/bin/actiavate
-- -m pip install -r requirements.txt
+- -m pip install -r [requirements.txt](https://github.com/OleksandrCherniavskyi/4.CantorsBI/blob/main/requirements.txt)
 - python main.py
