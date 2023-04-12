@@ -1,7 +1,8 @@
 # 4.CantorsBI
 Telegram bot uses web scraping to find the best currency exchange rates.
-  ![obraz](https://user-images.githubusercontent.com/105165580/231391890-36d1e571-28d9-4bff-ba59-919b4f8690db.png)
+  ![obraz](https://user-images.githubusercontent.com/105165580/231392691-05d53204-32d9-4ada-867b-7eca08726db5.png)
 
+  
 My Python project is a Telegram bot that makes it easy for users to find the best currency exchange rates. 
 The bot uses web scraping to gather data from local currency exchange sites (cantors) and compares the buy and sell prices for different currencies. 
 With this information, the bot can determine the best place to buy or sell a particular currency. 
